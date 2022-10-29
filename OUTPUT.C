@@ -4,7 +4,7 @@ int main()
 {
 printf("Welcome to C programming");
 int age=19;
-char name[20]="Meeran";
+char name[20]="Hameed";
 printf("\nMy Name is %s",name);
 printf("\nMy Age is %d",age);
 getch();
